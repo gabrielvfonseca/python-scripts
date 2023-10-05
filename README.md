@@ -1,2 +1,2 @@
-# Functions
-Set of simple singular python functions
+# Python Scripts
+Set of simple singular python script functions
